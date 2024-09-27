@@ -31,11 +31,14 @@ Son programas como Word o Excel que se usan para hacer trabajos de la escuela o 
 
 Es como el esqueleto de una página web. Le dice al computador cómo organizar todo.
 
+![HTML](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/ej.6.png "HTML")
+
 7. ¿Qué es CSS?
 
 Es como la pintura y la decoración de una página web. Hace que se vea bonita.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![flujo de trabajo](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/ej.8.png "flujo de trabajo")
 
 
