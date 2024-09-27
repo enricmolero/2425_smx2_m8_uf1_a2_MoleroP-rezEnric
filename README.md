@@ -18,6 +18,7 @@ Son programas como Word o Excel que se usan para hacer trabajos de la escuela o 
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
+|------------|:------------:|
 |Aplicaciones |Visto |
 |Google Docs |![tick](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
 |Google Slides |![tick](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
