@@ -25,7 +25,6 @@ Son programas como Word o Excel que se usan para hacer trabajos de la escuela o 
 |Google Sheets |![tick](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
 |Google Calendar |![calendario](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20calendario.png) |
 |Google Meet |![portatil](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20portatil.png) |
-|zebra stripes | |
 |...|...|
 
 6. ¿Qué es HTML?
