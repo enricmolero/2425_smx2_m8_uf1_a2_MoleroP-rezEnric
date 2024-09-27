@@ -19,11 +19,13 @@ Son programas como Word o Excel que se usan para hacer trabajos de la escuela o 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
 |Aplicaciones |Visto |
-|Google Docs |(https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
-|Google Slides |(https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
-|Google Sheets |(https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
-|Google Calendar |(https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20calendario.png) |
-|Google Meet |(https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20portatil.png) |
+|Google Docs |![tick](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
+|Google Slides |![tick](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
+|Google Sheets |![tick](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20tick.png) |
+|Google Calendar |![calendario](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20calendario.png) |
+|Google Meet |![portatil](https://github.com/enricmolero/2425_smx2_m8_uf1_a2_MoleroPerezEnric/blob/main/emoji%20portatil.png) |
+|zebra stripes | |
+|...|...|
 
 6. ¿Qué es HTML?
 
